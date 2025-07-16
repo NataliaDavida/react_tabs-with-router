@@ -6,7 +6,7 @@ import classNames from 'classnames';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { HomePage } from './pages/HomePage';
 import { TabsPega } from './pages/TabsPage';
-import { NotFoundPega } from './pages/NotFoudPage';
+import { NotFoundPega } from './pages/NotFoundPage';
 
 export const App = () => (
   <>
